@@ -1,10 +1,33 @@
-# Ouroboros Vue
+# 🐍 Ouroboros Vue
 
-这是从 `boke_jam/app/ouroboros` 单独重构出的 Vue 3 + Phaser 前端项目。项目只包含“衔尾蛇”游戏，不包含原压缩包里的三消页面、Next.js、vinext、Cloudflare Worker 或数据库代码。
+> **《圈一圈（Ouroboros）》**
+>
+> 2026 BOKE VIBE JAM 一等奖作品
 
-## 协作流程测试
+一款以“衔尾蛇”为灵感设计的动作游戏。
 
-- 2026-07-25：README-only PR 流程测试。
+玩家通过控制不断延伸的蛇身形成闭环，在循环中完成战斗与净化。游戏围绕“连接、循环与成长”的主题展开，将简单的环形机制转化为核心玩法体验。
+
+本项目基于 **Vue 3 + Phaser + TypeScript** 开发，采用模块化架构设计，支持 Web、Windows 与 Android 多端运行。
+
+## ✨ 游戏特色
+
+- 🔄 独特的闭环战斗机制
+- ⚔️ Boss 战与阶段式挑战
+- 🎵 音频反馈与动画演出
+- 🖥️ Web / Windows / Android 多端支持
+- 👥 团队协作开发，完整工程化流程
+
+---
+
+## 🛠 技术栈
+
+- Vue 3
+- TypeScript
+- Phaser
+- Vite
+- Electron
+- Capacitor
 
 ## 启动
 
